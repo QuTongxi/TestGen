@@ -1,0 +1,352 @@
+Applications of Property-Based Testing
+Benefits of Property-Based Testing
+Black-Box Testing Fundamentals
+Black-box Testing Fundamentals
+Black-box Testing Overview
+Black-box测试用例设计技术概览
+Boundary Value Analysis
+Boundary Value Analysis Principles
+Boundary Value Testing Guidelines
+Broad Applications of MT in SE
+Catastrophic Failure Properties
+Cause-Effect Graphing Basics
+Causes and Effects Definition
+Closed vs Open Borders in Path Domains
+Coincidental Correctness in Testing
+Combinatorial Test Configuration Generation
+Communicating PBT Value to Stakeholders
+Comparative MR Violation Rates: NBC vs kNN
+Competent Programmer Hypothesis
+Complementing PBT with Example Tests
+Core Testing Principles
+Correctness vs Reliability
+Correctness vs Testing Objective
+Cross-validation for ML Testing
+Crowdsourcing for MR Identification
+Decision Table Expected Effects
+Decision Table Testing
+Decision Table Testing Example
+Desired PBT Tool Visibility Features
+Differential & Model-Based Properties
+Differential Properties in PBT
+Domain Error Types and Border Shifts
+Domain Partitioning Introduction
+Domain Partitioning for Input Parameters
+Domain Testing Strategy for Boundary Errors
+Empirical Success of Metamorphic Testing
+Equality Relations in MRs
+Equivalence Class Heuristics
+Equivalence Class Test Case Generation
+Equivalence Class Test Design Rules
+Equivalence Partitioning Basics
+Equivalence Partitioning Example
+Equivalence Partitioning Principles
+Equivalence Partitioning Technique
+Equivalence Partitioning原理
+Error Clustering Phenomenon
+Error Guessing Technique
+Error Guessing Technique Examples
+Error Guessing for Data Validation
+Example-Based Tuning in PBT
+Exhaustive Path Testing Impracticality
+Exhaustive Path Testing Limitations
+FSM Reset Transitions in Testing
+FSM建模：状态、输入与转换
+FSM状态转移函数表示法
+FSM的表格表示法
+FSM输出函数的序列表示
+Formal Definition of Metamorphic Relation
+Future MT Research Opportunities
+Fuzzing Definition and Scope
+Fuzzing vs Property-Based Testing
+GUI设计对测试数据的影响
+GUI设计对等价类划分的影响
+Guidelines for Defining MRs
+Human Errors in Software Development
+HypoFuzz: Coverage-Guided PBT Mutation
+Hypothesis Generators vs Monadic Generators
+Hypothesis Library Adoption
+Hypothesis在科研软件测试中的应用
+Hypothesis解决软件测试研究的核心难题
+Implementing Metamorphic Testing with MRs
+Impossibility of Exhaustive Testing
+Input Domain Definition
+Input Domain Partitioning Limitations
+Input Domain Partitioning Strategy
+Interaction Faults and Test Coverage
+Limitations of Black-box Testing
+Limitations of Model Checking
+ML分类器的Oracle问题
+MR Coverage as Black-Box Criterion
+MR Effectiveness in kNN Mutation Analysis
+MR Execution Path Differences
+MR Metrics for Test Suite Adequacy
+MR-0: Affine Transformation Consistency
+MR-1.1: Class Label Permutation
+MR-1.2: Attribute Permutation Invariance
+MR-2.1: Uninformative Attribute Addition
+MR-2.2: Informative Attribute Addition
+MR-3.1: Consistency with Re-prediction
+MR-3.2: Additional Same-Label Training Samples
+MR-3.2: Additional Training Sample
+MR-4.1: Addition of Classes by Duplication
+MR-4.2: Addition of Classes by Re-labeling
+MR-4.2: Robustness to Irrelevant Label Changes
+MR-Based Program Selection
+MRs Beyond Input-Output Separation
+MRs as Non-Equality Relations
+MRs for OSS Quality Assessment
+MRs vs Single-Input Properties
+MRs在机器学习验证中的通用性
+MR识别依赖规格定义方式
+MR选择缺乏客观标准
+MT Applications Across Domains
+MT Applications Beyond Testing
+MT Compiler Testing Case Study
+MT Effectiveness in Oracle Problem
+MT Fault Tolerance Mechanism
+MT Trustworthiness Evaluation Challenges
+MT as Verification and Validation Technique
+MT for Big Data Testing
+MT for Oracle Problem Alleviation
+MT for Search Engine Quality Assessment
+MT's Fault Revelation vs Debugging Needs
+MT's Precision Problem in Fault Detection
+MT: Testing via Algorithm Properties
+Metamorphic Fault Tolerance Strategy
+Metamorphic Group (MG) Definition
+Metamorphic Proving Concept
+Metamorphic Relations and Necessary Properties
+Metamorphic Relations for Oracle Problem
+Metamorphic Relations for Std Dev
+Metamorphic Testing and Oracle Problem
+Metamorphic Testing for Shortest Path
+Metamorphic Testing方法概述
+Metamorphic Testing解决方案
+Model-Based Specification Testing
+Model-Based Testing and Model Checking
+Monadic Generators for Constrained Test Data
+Motivation for Cause-Effect Graphing
+NBC MR Performance and Mutant Killing Rate
+Non-Essential Features of PBT
+Non-Unique Test Selection
+Open Borders and Path Domain Membership
+Oracle Problem and Automated Oracles
+Oracle Problem in Search Testing
+PBT Adoption and Team Culture
+PBT Adoption and Theoretical Foundations
+PBT Benefits: Edge Cases & Confidence
+PBT Benefits: Specification Clarity
+PBT Coverage Measurement Limitations
+PBT Evaluation Metrics and Coverage
+PBT Generators and eDSLs
+PBT Terminology and Scope
+PBT as Executable Documentation
+PBT for BST Validation
+PBT vs Example-Based Testing
+PBT vs Fuzzing Distinction
+PBT vs Traditional Unit Testing
+PBT三阶段流程与挑战
+PBT与Fuzzing的可视化挑战
+PBT与单元测试、模糊测试对比
+PBT与示例测试对比
+PBT中的现实性与生成器策略
+PBT中的评估鸿沟问题
+PBT中的高杠杆测试场景
+PBT作为规范文档
+PBT关键输入分布指标
+PBT在代码审查中的价值
+PBT在复杂系统中的实际价值
+PBT在复杂系统中的应用
+PBT在环境交互代码中的挑战
+PBT失败调试与反例简化
+PBT实践特征：高杠杆机会主义应用
+PBT工具对高杠杆场景的优化
+PBT工具的可见性需求
+PBT应用层级与工具生态
+PBT应用的实用主义策略
+PBT数据生成器的质量挑战
+PBT未来工作的三个方向
+PBT核心机制与优势
+PBT核心组件与优势
+PBT核心观察：成功实践的关键点
+PBT测试数据生成的挑战
+PBT测试有效性度量指标
+PBT生成器信任问题
+PBT生成器的实践挑战
+PBT用于验证关键代码的正确性
+PBT的广泛适用性与倡导
+PBT的投入与回报权衡
+PBT的高杠杆场景应用
+PBT的高杠杆应用场景
+PBT研究议程：未来技术方向
+PBT面临的特定挑战
+PBT验证技术：变异与示例
+PBT验证技术：覆盖率指标
+Path Selection Criteria in Domain Testing
+Path Testing Cannot Guarantee Correctness
+Performance Testing Overview
+Practical MR Selection Trade-offs
+Principles for Selecting Good MRs
+Property-Based Testing Core Definition
+Property-Based Testing Definition
+Property-Based Testing Fundamentals
+Property-Based Testing Overview
+Property-Based Testing vs Fuzzing
+Property-Based Testing with BST Example
+Quality Challenges in MR Coverage
+Realistic Test Data Requirements
+Reflective Generators Limitations
+Reflective Generators for PBT
+Reflective Shrinking for JSON Bugs
+Robustness Testing Principles
+Round-Trip Properties in PBT
+Round-Trip性质的重要性
+Same-Input vs Different-Input Properties
+Scientific Software Testing
+Semi-proving with Metamorphic Relations
+Source and Follow-up Inputs in MT
+Standard Deviation Example of MRs
+State Transition Testing
+Statement Coverage Principle
+Stress Testing Fundamentals
+Structure of PBT Libraries
+Symbolic Testing via Semi-proving
+System F and Reflective Generation
+Test Case Diversity in MT
+Test Case Must Define Expected Output
+Test Case Shrinking in PBT
+Test Data Generation Challenges
+Test Data Generation Overview
+Test Independence and Error Contamination
+Testing Evaluation and Randomness
+Testing as Creative Challenge
+The Coupling Effect in Mutation Testing
+The Precision Problem in MT
+Unidimensional vs Multidimensional Partitioning
+Unified PBT Tooling for Usability
+User-Oriented MRs for Oracle-Less Systems
+V-等价与状态可区分性
+Valid vs Invalid Case Partitioning
+Verification vs Validation in Software
+White Box Testing Limitations
+White-Box Testing Reality Check
+三角形问题的边界分析
+事务型程序的测试复杂性
+交叉验证的局限性
+交通灯系统状态转换模型
+代码覆盖率与测试套件质量
+关系与函数在测试中的建模
+关键程序测试十大原则
+分布式系统PBT与Antithesis方案
+变异体v1的检测案例
+变异测试的核心目的
+变量间语义关系在等价类测试中的重要性
+可靠性与使用场景的关系
+可靠性与信心的偏差
+因果图基本元素与约束
+因果图基本逻辑函数
+因果图应用实例
+因果图法基础原理
+因果图法解决输入组合问题
+因果图约束的真值表含义
+基于代码的等价类划分
+基于输出的等价类划分
+完全指定FSM的定义与示例
+属性作为规格说明的沟通工具
+开发与测试过程的对应关系
+开发者即测试者的责任
+强弱变异等价性差异
+强连通FSM与状态可达性
+排序程序的输入域复杂性示例
+操作剖面的定义与作用
+无效输入导致的错误示例
+无效输入测试的重要性
+最终状态作为测试Oracle
+未来高保障软件验证的需求
+模块、功能与系统测试的目标
+模块测试中的输入不变性验证
+模块测试的心理学与人员安排
+模块测试的核心目的
+测试不是为了验证功能正确性
+测试与验证的局限性
+测试与验证的根本区别
+测试中的错误、故障与失效
+测试充分性与需求覆盖
+测试充分性度量与覆盖域
+测试完成标准的正向定义
+测试正交性与置信度
+测试用例必须包含预期输出定义
+测试的不完全性与选择性
+测试的心理学：目标与态度
+测试的本质是发现缺陷
+测试的本质：发现缺陷而非证明正确
+测试的本质：发现而非证明
+测试的本质：发现错误而非证明正确
+测试的根本局限性与目标
+测试的真实目标：发现缺陷
+测试的真实目的：发现错误而非证明正确
+测试的经济性原则
+测试目标：发现缺陷而非证明正确
+测试策略：黑盒与白盒结合
+测试自动化的成本与Oracle问题
+测试选择问题与输入域定义
+测试预言(Oracle)的概念与作用
+测试饱和区与可靠性局限
+状态向量示例：最大值程序
+状态序列在GUI测试中的应用
+状态转换测试基础
+状态转换测试适用场景
+状态转换测试适用性分析
+状态转移与程序行为建模
+生成器分布与覆盖的权衡
+生成器即解析器：PBT中的结构化数据生成
+生成器缺陷导致的测试盲区
+用例测试方法论
+白盒测试与路径覆盖的局限性
+程序复杂性与形式化验证的障碍
+程序状态与行为定义
+穷举测试的不可能性
+穷举测试的不可能性与测试的必要性
+等价关系定义与重叠类分析
+等价类划分与输入域建模
+等价类划分原理与应用
+等价类划分在打印机测试中的应用
+等价类划分的有效性评估
+等价类划分的核心思想与局限
+等价类划分的理论基础
+等价类划分：pFound关系示例
+系统测试的本质与目标
+组合测试与因子组合
+组合测试中的交互故障模型
+组合设计应对交互缺陷
+经典PBT性质类型
+综合测试策略框架
+缺陷数量预估的三要素
+缺陷聚集效应
+虚假信心的根源
+规格工程需支持MR识别
+证明无错是不可行的目标
+购物车状态转换测试
+软件可靠性定义
+输入域与穷尽测试的不可能性
+输入域的两种定义视角
+输入域规模与穷举测试不可行性
+边界值分析 vs 等价类划分
+边界值分析与等价类划分的关系
+边界值分析原则
+边界值分析原理
+边界值分析在文本搜索测试中的应用
+边界值分析的实施步骤
+边界值分析的实践价值与局限
+边界测试中的ON-OFF点策略
+边界测试的扩展：末尾位置测试
+错误移除未必提升可靠性
+随机测试优于非随机测试的场景
+随机测试的低效性
+随机测试的效用与局限
+需求衍生测试的不完备性
+饱和效应与测试策略调整
+高杠杆场景下的PBT
+黑盒测试与输入域建模
+黑盒测试的本质与目标

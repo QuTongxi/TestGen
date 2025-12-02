@@ -1,0 +1,16 @@
+[project]
+name = "repo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=1.1.0",
+    "langchain-community>=0.4.1",
+    "langchain-openai>=0.2.0",
+    "openai>=2.8.1",
+    "rich>=14.2.0",
+    "sentence-transformers>=5.1.2",
+    "pypdf>=5.0.0",
+    "faiss-cpu>=1.13.0",
+]
