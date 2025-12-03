@@ -61,9 +61,16 @@ async def get_answer_without_rag(query: str) -> str:
 async def main():
     """对比测试：RAG vs 无RAG"""
     test_queries = [
-        "测试的本质是什么？",
-        "Oracle问题在软件测试中的核心地位是什么？Metamorphic Testing如何从根本上解决Oracle问题？",
-        "Property-Based Testing和传统测试方法（如等价类划分、边界值分析）在测试理念和实践上有哪些根本性差异？",
+        """作为一个软件测试工程师，我需要为一个简单的整数加法函数编写测试用例。函数签名是：
+def add(a: int, b: int) -> int:
+    \"\"\"返回两个整数的和\"\"\"
+    return a + b
+
+请根据软件测试的最佳实践，为我总结应该如何全面测试这个函数。需要考虑：
+1. 应该使用哪些测试方法（等价类划分、边界值分析、Property-Based Testing等）
+2. 应该设计哪些具体的测试用例
+3. 如何确保测试的充分性和有效性
+""",
     ]
     
     for i, query in enumerate(test_queries, 1):
