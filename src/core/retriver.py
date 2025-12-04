@@ -1,5 +1,4 @@
 import os
-import torch
 import logging
 from typing import List, Optional
 
@@ -13,7 +12,7 @@ from .embeddings import LocalEmbeddings
 
 logger = logging.getLogger("TestGen.retriver")
 
-DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
+DEVICE = "cpu"
 
 
 class DocsRetriever:

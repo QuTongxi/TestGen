@@ -1,10 +1,10 @@
 import os
 
 class Assets:
-    local_embeddings_path: str = r"D:\workspace\repo\embeddings\Qwen3-Embedding-0.6B"
+    local_embeddings_path: str = r"D:\workspace\TestGen\embeddings\Qwen3-Embedding-0.6B"
     local_embeddings_repo: str = r"Qwen/Qwen3-Embedding-0.6B"
     # local_embeddings_repo: str = r"BAAI/bge-m3"
-    local_embeddings_auto_download: bool = True
+    local_embeddings_auto_download: bool = False
 
     # 指南文档与向量库
     doc_path: str = r"D:\workspace\TestGen\doc\guide\markdowns"
@@ -18,7 +18,7 @@ class Assets:
     openai_api_key: str = "sk-c0d3d24b6eab4b9fbbf654c2a8817980"
 
     # PDF相关路径
-    pdfs_path: str = r"D:\workspace\repo\doc\pdfs"
-    pdfs_vector_path: str = r"D:\workspace\repo\doc\pdfs\vectorstore"
+    pdfs_path: str = r"D:\workspace\TestGen\doc\pdfs"
+    pdfs_vector_path: str = r"D:\workspace\TestGen\doc\pdfs\vectorstore"
 
 AssetsInfo = Assets()
